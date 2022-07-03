@@ -1,3 +1,3 @@
 # README
 
-https://www.hotrails.dev
+My repo for tutorial: https://www.hotrails.dev
