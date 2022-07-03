@@ -156,6 +156,9 @@ GEM
       rexml (~> 3.2, >= 3.2.5)
       rubyzip (>= 1.2.2, < 3.0)
       websocket (~> 1.0)
+    simple_form (5.1.0)
+      actionpack (>= 5.2)
+      activemodel (>= 5.2)
     sprockets (4.1.1)
       concurrent-ruby (~> 1.0)
       rack (> 1, < 3)
@@ -204,6 +207,7 @@ DEPENDENCIES
   rails (~> 7.0.0)
   redis (~> 4.0)
   selenium-webdriver
+  simple_form (~> 5.1.0)
   sprockets-rails
   stimulus-rails
   turbo-rails
@@ -212,7 +216,7 @@ DEPENDENCIES
   webdrivers
 
 RUBY VERSION
-   ruby 3.0.4p208
+   ruby 3.0.0p0
 
 BUNDLED WITH
    2.3.17
