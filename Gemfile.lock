@@ -165,13 +165,13 @@ GEM
       sprockets (>= 3.0.0)
     stimulus-rails (1.0.4)
       railties (>= 6.0.0)
-    thor (1.1.0)
+    thor (1.2.1)
     turbo-rails (1.1.1)
       actionpack (>= 6.0.0)
       activejob (>= 6.0.0)
       railties (>= 6.0.0)
     tzinfo (2.0.4)
-      concurrent-ruby (~> 1.0)
+      concurrent-ruby (>= 1.0)
     web-console (4.2.0)
       actionview (>= 6.0.0)
       activemodel (>= 6.0.0)
@@ -212,7 +212,7 @@ DEPENDENCIES
   webdrivers
 
 RUBY VERSION
-   ruby 3.0.0p0
+   ruby 3.0.4p208
 
 BUNDLED WITH
-   2.2.13
+   2.3.17
